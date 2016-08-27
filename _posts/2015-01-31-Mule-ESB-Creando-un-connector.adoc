@@ -1,0 +1,22 @@
+= Mule ESB: Creando un connector
+Carlos González Fernández copiado de: Mario Perez
+
+Probando ASCIIDOC
+
+== ASCIIDOC
+
+Aqui va codigo fuente
+
+ System.out.println("JAVA")
+ If(1==1) {
+ 	throw new Exception();
+ }
+ exit(0);
+ 
+ahora podemos:
+
+ - uno
+ - dos
+ - tres
+
+
